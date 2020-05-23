@@ -1,0 +1,13 @@
+Email spam classification:
+
+to detect whether email is fake or not?
+
+pandas               //  for data manipulation
+scikit learn       //for building ML Model
+
+Steps:
+1. Load dataset
+2. split into training & testing data
+3.Extract features
+4.build a model
+5.test accuracy
